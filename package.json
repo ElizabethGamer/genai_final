@@ -1,0 +1,25 @@
+{
+  "name": "user-management-service",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "finaltest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElizabethGamer/genai_final.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElizabethGamer/genai_final/issues"
+  },
+  "homepage": "https://github.com/ElizabethGamer/genai_final#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.2"
+  }
+}
